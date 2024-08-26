@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\bin\Debug\Adapter.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\obj\Debug\Adapter.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Adapter\obj\Debug\Adapter.pdb

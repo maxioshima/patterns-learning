@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\bin\Debug\Mediator.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\obj\Debug\Mediator.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\bin\Debug\iterator.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\bin\Debug\iterator.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\obj\Debug\iterator.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\obj\Debug\iterator.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\obj\Debug\iterator.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\iterator\obj\Debug\iterator.pdb

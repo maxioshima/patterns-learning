@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\bin\Debug\ClassLibrary1.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\bin\Debug\ClassLibrary1.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\obj\Debug\ClassLibrary1.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Command\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\bin\Debug\AbstractFactory.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\obj\Debug\AbstractFactory.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

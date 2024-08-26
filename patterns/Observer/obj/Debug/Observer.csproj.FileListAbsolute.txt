@@ -1,0 +1,6 @@
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\bin\Debug\Observer.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\obj\Debug\Observer.dll
+C:\Users\Maksim.Anoshkin\Desktop\patterns\Observer\obj\Debug\Observer.pdb
